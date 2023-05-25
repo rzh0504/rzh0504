@@ -11,7 +11,5 @@
 - 🎸 Guitar lover
 - 🏃 Keep Running
 
-![](https://spotify-recently-played-readme.vercel.app/api?user=31qetqdxvaxj6zapcptbzfz2kkpm&count=2)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&vCenter=true&width=435&lines=Just+Peace+and+Patient)](https://git.io/typing-svg)
 
