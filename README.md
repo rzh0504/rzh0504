@@ -2,6 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/rzh0504)
 ![](https://img.shields.io/badge/dynamic/json?color=red&label=%E7%BD%91%E6%98%93%E4%BA%91&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DneteaseMusic%26queryKey%3D2093659459)
+![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumyggsun@gmail.com)
 
 - 🍻 Junior at 🇨🇳 [CQNU](https://www.pku.edu.cn), _BSc in Intellectual Science (🤡)
 - ⚡ Python/Java/JavaScript  (bushi)
