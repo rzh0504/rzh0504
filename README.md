@@ -7,9 +7,9 @@
 - ⚡ Python/Java/JavaScript  (bushi)
 - 🖋  My Blog 👉 [RichardbEZ](https://Richardbez.eu.org)
 - 🎵 Musics & Movies
-- 🏃 Keep Running
 - 🎮 [Steam](https://steamcommunity.com/profiles/76561199210543063/)
 - 🎸 Guitar lover
+- 🏃 Keep Running
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&vCenter=true&width=435&lines=Just+Peace+and+Patient)](https://git.io/typing-svg)
 
