@@ -6,7 +6,7 @@
 
 - 🍻 Junior at 🇨🇳 [CQNU](https://www.pku.edu.cn), _BSc in Intellectual Science (🤡)
 - ⚡ Python/Java/JavaScript  (bushi)
-- 🖋  My Blog 👉 [RichardbEZ](https://Richardbez.eu.org)
+- 🖋  My Blog 👉 [RichardbEZ](https://Richardbez.top)
 - 🎵 Musics & Movies
 - 🎮 [Steam](https://steamcommunity.com/profiles/76561199210543063/)
 - 🎸 Guitar lover
