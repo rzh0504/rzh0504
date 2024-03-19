@@ -3,7 +3,7 @@
 
 - 🍻 Junior Student
 - ⚡ JavaScript&Python
-- 🖋  My Blog 👉 [Starz.xyz](https://starz.xyz)
+- 🖋  My Blog 👉 [Starzh.xyz](https://starzh.xyz)
 - 🎵 Musics & Movies
 - 🎸 Guitar lover
 - 🏃 Keep Running
