@@ -1,9 +1,8 @@
 ### Yoo, I'm Richard 👋
 
 
-- 🍻 Junior Student
+- 🍻 Senior
 - ⚡ JavaScript&Python
-- 🖋  My Blog 👉 [Starzh.xyz](https://starzh.xyz)
 - 🎵 Musics & Movies
 - 🎸 Guitar lover
 - 🏃 Keep Running
