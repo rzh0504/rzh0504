@@ -1,7 +1,7 @@
 ### Yoo, I'm Richard 👋
 
 
--  ⚡ JavaScript&Python
+-   ⚡ JavaScript&Python
 - 🎵 Musics & Movies
 - 🎸 Guitar lover
 - 🏃 Keep Running
