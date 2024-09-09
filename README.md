@@ -1,7 +1,6 @@
 ### Yoo, I'm Richard 👋
 
 
-- 🍻 Senior
 - ⚡ JavaScript&Python
 - 🎵 Musics & Movies
 - 🎸 Guitar lover
