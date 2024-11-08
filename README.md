@@ -1,3 +1,6 @@
+![banner](https://up2r2.051226.xyz/imgs/banner.webp)
+
+
 <h1>Hi 👋, I'm R1cky</h1>
 <p>Junior Full Stack Dev Under Graduate</p>
 <h2>🚀 Languages and Tools I Use</h2>
