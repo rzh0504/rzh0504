@@ -1,4 +1,4 @@
-![banner](assets/readme.png)
+![banner](assets/og.png)
 
 <div align="center">
 <!--
